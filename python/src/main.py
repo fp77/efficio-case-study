@@ -5,6 +5,7 @@ from pathlib import Path
 # Allow running as `python src/main.py` from the python/ directory
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+# pylint: disable=wrong-import-position
 from src.pipeline.ingestion import ingest_all_companies
 from src.pipeline.processor import join_company_data
 from src.utils.logger import get_logger
