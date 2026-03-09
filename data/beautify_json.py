@@ -1,4 +1,5 @@
-# The purpose of this script it to increase the readability of the json files for, visual inspection, by adding line breaks and indentation.
+# The purpose of this script it to increase the readability of the json files for, visual inspection
+# One-time run: the original files are moved to a different location
 
 import json
 import os

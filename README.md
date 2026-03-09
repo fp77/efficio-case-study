@@ -1,6 +1,6 @@
 # Efficio Case Study
 
-> **Note:** This project was developed with the assistance of Copilot. It was used to create the most of this README file, aid in the analysis of the input json files, assist in code debugging and completion, and aiding in pylint scoring. The codebase was entirely idealised by the developer.
+> **Note:** This project was developed with the assistance of Copilot. It was used to create the most of this README file, aid in the analysis of the input json files, assist in code debugging, and correcting pylint scoring. The codebase structure and overall design was entirely idealised by the developer.
 ---
 
 ## Overview
